@@ -1,0 +1,10 @@
+export "package:sports/widgets/search.dart";
+export "package:sports/widgets/trendy.dart";
+export "package:sports/widgets/recentActivities.dart";
+export "package:sports/widgets/related.dart";
+export "package:sports/widgets/nearBy.dart";
+export "package:sports/widgets/header.dart";
+export "package:sports/widgets/selectDate.dart";
+export "package:sports/widgets/bookNow.dart";
+export "package:sports/widgets/selectSlot.dart";
+export "package:sports/widgets/selectCourt.dart";
