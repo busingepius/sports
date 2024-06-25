@@ -14,19 +14,31 @@ An application to connect sports fanatics
 ## Images
 
 - The following images used in this project have been taken, modified from pexels.com, and are free to use.
-#### icons
-- ![Badminton](https://github.com/busingepius/sports/blob/master/assets/icons/badminton.png)
-- ![Football](https://github.com/busingepius/sports/blob/master/assets/icons/football.png)
-- ![Rugby](https://github.com/busingepius/sports/blob/master/assets/icons/rugby.png)
-- ![Soccer](https://github.com/busingepius/sports/blob/master/assets/icons/soccer.png)
-- ![Tennis](https://github.com/busingepius/sports/blob/master/assets/icons/tennis.png)
 
-#### images
-- ![Badminton](https://github.com/busingepius/sports/blob/master/assets/images/badminton.png)
-- ![Football](https://github.com/busingepius/sports/blob/master/assets/images/football.png)
-- ![Rugby](https://github.com/busingepius/sports/blob/master/assets/images/rugby.png)
-- ![Soccer](https://github.com/busingepius/sports/blob/master/assets/images/soccer.png)
-- ![Tennis](https://github.com/busingepius/sports/blob/master/assets/images/tennis.png)
+[//]: # (#### icons)
+
+[//]: # (- ![Badminton]&#40;https://github.com/busingepius/sports/blob/master/assets/icons/badminton.png&#41;)
+
+[//]: # (- ![Football]&#40;https://github.com/busingepius/sports/blob/master/assets/icons/football.png&#41;)
+
+[//]: # (- ![Rugby]&#40;https://github.com/busingepius/sports/blob/master/assets/icons/rugby.png&#41;)
+
+[//]: # (- ![Soccer]&#40;https://github.com/busingepius/sports/blob/master/assets/icons/soccer.png&#41;)
+
+[//]: # (- ![Tennis]&#40;https://github.com/busingepius/sports/blob/master/assets/icons/tennis.png&#41;)
+
+[//]: # ()
+[//]: # (#### images)
+
+[//]: # (- ![Badminton]&#40;https://github.com/busingepius/sports/blob/master/assets/images/badminton.png&#41;)
+
+[//]: # (- ![Football]&#40;https://github.com/busingepius/sports/blob/master/assets/images/football.png&#41;)
+
+[//]: # (- ![Rugby]&#40;https://github.com/busingepius/sports/blob/master/assets/images/rugby.png&#41;)
+
+[//]: # (- ![Soccer]&#40;https://github.com/busingepius/sports/blob/master/assets/images/soccer.png&#41;)
+
+[//]: # (- ![Tennis]&#40;https://github.com/busingepius/sports/blob/master/assets/images/tennis.png&#41;)
 
 #### logos
 - ![Image 1](https://github.com/busingepius/sports/blob/master/assets/logo/logo.png)
