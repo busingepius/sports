@@ -14,10 +14,22 @@ An application to connect sports fanatics
 ## Images
 
 - The following images used in this project have been taken, modified from pexels.com, and are free to use.
-- [Image 1](https://www.pexels.com/photo)
-- [Image 1](https://www.pexels.com/photo)
-- [Image 1](https://www.pexels.com/photo)
-- [Image 1](https://www.pexels.com/photo)
+#### icons
+- ![Badminton](https://github.com/busingepius/sports/blob/master/assets/icons/badminton.png)
+- ![Football](https://github.com/busingepius/sports/blob/master/assets/icons/football.png)
+- ![Rugby](https://github.com/busingepius/sports/blob/master/assets/icons/rugby.png)
+- ![Soccer](https://github.com/busingepius/sports/blob/master/assets/icons/soccer.png)
+- ![Tennis](https://github.com/busingepius/sports/blob/master/assets/icons/tennis.png)
+
+#### images
+- ![Badminton](https://github.com/busingepius/sports/blob/master/assets/images/badminton.png)
+- ![Football](https://github.com/busingepius/sports/blob/master/assets/images/football.png)
+- ![Rugby](https://github.com/busingepius/sports/blob/master/assets/images/rugby.png)
+- ![Soccer](https://github.com/busingepius/sports/blob/master/assets/images/soccer.png)
+- ![Tennis](https://github.com/busingepius/sports/blob/master/assets/images/tennis.png)
+
+#### logos
+- ![Image 1](https://github.com/busingepius/sports/blob/master/assets/logo/logo.png)
 
 ## Icons
 
@@ -29,6 +41,7 @@ An application to connect sports fanatics
 4. rugby icon
 5. soccer icon
 
+- The icons have been modified to fit the application containers
 ```flutter
         const ImageIcon(
                         AssetImage("assets/icons/badminton_icon.png"),
@@ -36,3 +49,6 @@ An application to connect sports fanatics
                         color: Colors.white,
                       )
 ```
+
+#### video
+- [Video](https://drive.google.com/file/d/1oA4BYIWmlf3LexYybvF63ng95fdoRH-0/view?usp=sharing)
